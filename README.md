@@ -28,6 +28,14 @@ employee-management-system/
 ---
 ```
 
+## 🖼️ Preview
+
+### Employee Registration Form
+![Employee Registration Form](images/form.png)
+
+### Employee List Table
+![Employee List Table](images/table.png)
+
 ##
  🧠 How to Run
 1. Clone the repository:
