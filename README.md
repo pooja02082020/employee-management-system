@@ -13,7 +13,7 @@ This project allows users to **register, list, search, and delete** employees in
 - ✅ Confirm before submitting, deleting, or resetting forms  
 - ⚡ Responsive and modern **nude-themed** UI  firm
 
----
+```
 ## 🏗️ Project Structure
 employee-management-system/
 │
@@ -25,7 +25,7 @@ employee-management-system/
 │ └── logonude.jpg
 └── README.md # Project documentation
 
----
+```
 
 ##
  🧠 How to Run
