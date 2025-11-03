@@ -14,7 +14,6 @@ This project allows users to **register, list, search, and delete** employees in
 - ⚡ Responsive and modern **nude-themed** UI  firm
 
 ---
-
 ## 🏗️ Project Structure
 employee-management-system/
 │
